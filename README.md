@@ -4,8 +4,7 @@
 A simple Python project that calculates the factorial of a given number. This project demonstrates the use of basic Python programming concepts and is suitable for beginners who are learning functions, loops, and mathematical operations.
 
 ## 📌 Project Description
-
-The **Factorial Calculator** is a Python program that calculates the factorial of a non-negative integer.
+The Factorial Calculator calculates the factorial of the fixed value 
 
 The factorial of a number \(n\), represented as \(n!\), is the product of all positive integers from 1 to \(n\).
 
@@ -17,7 +16,7 @@ For example:
 
 ## ✨ Features
 
-* Calculates the factorial of a given number.
+* Calculates the factorial of the fixed value 5.
 * Simple and beginner-friendly implementation.
 * Demonstrates fundamental Python programming concepts.
 * Easy to install and run.
@@ -55,18 +54,7 @@ Run the Python file using the following command:
 ```bash
 python3 factorial.py
 ```
-
-Enter a non-negative integer when prompted, if the program accepts user input.
-
-The program will calculate and display the factorial of the given number.
-
 ## 💡 Example
-
-**Input:**
-
-```text
-Enter a number: 5
-```
 
 **Output:**
 
@@ -83,15 +71,5 @@ factorial-calculator/
 ├── factorial.py
 └── README.md
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-You can use, modify, and distribute this project according to the terms of the license. To apply the MIT License, add a `LICENSE` file containing the official MIT License text and replace the copyright holder with your name or GitHub username.
-
-## 👩‍💻 Author
-
-Created as a Python programming project for learning and practicing fundamental programming concepts.
 
 ---
