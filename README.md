@@ -4,9 +4,7 @@
 A simple Python project that calculates the factorial of a given number. This project demonstrates the use of basic Python programming concepts and is suitable for beginners who are learning functions, loops, and mathematical operations.
 
 ## 📌 Project Description
-The Factorial Calculator calculates the factorial of the fixed value 
-
-The factorial of a number \(n\), represented as \(n!\), is the product of all positive integers from 1 to \(n\).
+The Factorial Calculator calculates the factorial of the fixed value
 
 For example:
 
@@ -19,7 +17,6 @@ For example:
 * Calculates the factorial of the fixed value 5.
 * Simple and beginner-friendly implementation.
 * Demonstrates fundamental Python programming concepts.
-* Easy to install and run.
 * No external libraries required.
 
 ## 🛠️ Requirements
@@ -59,7 +56,7 @@ python3 factorial.py
 **Output:**
 
 ```text
-Factorial of 5 is 120
+Factorial is : 120
 ```
 
 *Note: The exact input and output format depends on the implementation in `factorial.py`.*
